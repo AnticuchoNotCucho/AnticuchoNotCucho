@@ -3,7 +3,7 @@
 <h3 align="center">Ingeniero en informática</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif">
 
-- 🌱 Estoy intentando aprender mas sobre **Backend, Python, Machine Learning.**
+- 🌱 Actualmente estoy aprendiendo mas sobre **C# orientado al Backend**
 
 - 📫 Mi discord es **Anticucho#3078**
 - 💬 Cualquier sugerencia es bien aceptada 🤝
